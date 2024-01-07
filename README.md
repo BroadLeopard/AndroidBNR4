@@ -10,6 +10,12 @@
 **시리즈** I♥Mobile 39(제이펍의 모바일 시리즈 39)  
 **ISBN**  979-11-90665-82-7 (93000)  
 
+[### 도서 소개 페이지 바로 가기 ###](https://jpub.tistory.com/)  
+
+
 ※ 공부용으로 2024 버전으로 코드 수정
 
-[### 도서 소개 페이지 바로 가기 ###](https://jpub.tistory.com/)  
+Gradle build 구성 언어 groovy -> kotlin 변경 (https://developer.android.com/build/migrate-to-kotlin-dsl?hl=ko)
+
+
+
