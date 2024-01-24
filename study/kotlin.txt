@@ -1,0 +1,20 @@
+조건문
+when
+https://kotlinlang.org/docs/control-flow.html#if-expression
+
+
+
+
+
+lazy loading
+lateinit, by lazy
+https://kotlinlang.org/docs/properties.html#late-initialized-properties-and-variables
+
+
+
+
+
+
+scope function
+let, run, with, apply, and also.
+https://kotlinlang.org/docs/scope-functions.html

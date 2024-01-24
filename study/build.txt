@@ -1,0 +1,12 @@
+compileSdk는 소스 코드를 컴파일할 때 사용할 수 있는 Android 및 Java API를 결정 = API 레벨
+
+minSdk은 앱에서 지원하려는 가장 낮은 Android 버전을 지정
+
+targetSdk의 용도는 다음 두 가지입니다.
+
+1. 애플리케이션의 런타임 동작을 설정합니다.
+2. 테스트한 Android 버전을 증명합니다.
+
+targetSdk의 값은 compileSdk의 값보다 작거나 같아야 합니다.
+
+출처 : https://developer.android.com/build?hl=ko
